@@ -15,4 +15,3 @@ Code for Machine Learning Course at Buffalo CSE 574
 - Logistic Regression
 - Support Vector Machine (SVM) toolbox sklearn.svm.SVM to perform classiﬁcation
 - Gradient descent minimization of multi-class Logistic Regression (using softmax function).
-- 
